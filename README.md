@@ -12,4 +12,4 @@
 |光·遇国服|光遇音量合成重置器|[SkyVolumeRaiser](https://github.com/HTMonkeyG/SkyVolumeRaiser)|一个用于重置光遇国服PC端的音量合成器设置的小工具。|
 ||光遇国服黑暗腐蚀计算|[SkyNEShards](https://github.com/HTMonkeyG/SkyNEShards)|一个用于计算《光·遇》中国区游戏的碎石事件的网页小程序。|
 ||光遇键位重映射|[SkyNEKeyRemapper](https://github.com/HTMonkeyG/SkyNEKeyRemapper)|国服光遇无法改键位的临时解决方案。|
-||光遇NBS弹琴工具|[SkyNBSPlayer](https://github.com/HTMonkeyG/SkyNBSPlayer)|光遇自动化弹琴小软件。|
+||光遇NBS弹琴工具|[SkyNBSPlayer](https://github.com/HTMonkeyG/SkyNBSPlayer-C)|光遇自动化弹琴小软件。|
