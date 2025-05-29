@@ -13,7 +13,7 @@
 |游戏|项目名|仓库|简介|
 |-|-|-|-|
 |我的世界：中国版|MCNE-BE守护线程|[MCNE-BE-Daemon](https://github.com/HTMonkeyG/MCNE-BE-Daemon)|用于提供网易基岩版设置锁定的小工具。|
-|-|存档加解密工具|[XOR-MC-Archive-Decrypt](https://github.com/HTMonkeyG/XOR-MC-Archive-Decrypt)|网易我的世界存档加密解密工具。|
+|-|存档加解密工具|[XOR-MC-Archive-Decrypt](https://github.com/HTMonkeyG/XOR-MC-Archive-Decrypt)|一个针对我的世界网易版地图加密机制开发的MC存档加密解密工具。|
 |-|玩家查找辅助|[MCPlayerFinder](https://github.com/HTMonkeyG/MCPlayerFinder)|一个协助玩家使用/w指令及选择器查找玩家的前端小工具。|
 |光·遇国服|光遇音量合成重置器|[SkyVolumeRaiser](https://github.com/HTMonkeyG/SkyVolumeRaiser)|一个用于重置光遇国服PC端的音量合成器设置的小工具。|
 |-|光遇国服黑暗腐蚀计算|[SkyNEShards](https://github.com/HTMonkeyG/SkyNEShards)|一个用于计算《光·遇》中国区游戏的碎石事件的网页小程序。|
